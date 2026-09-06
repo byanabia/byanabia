@@ -19,3 +19,20 @@ Estudante da *SENAI - Suíço Brasileira*📚🚩
 
 
 <img width="170" height="170" alt="Image" src="https://github.com/user-attachments/assets/c2696630-2c09-4149-813a-fd660314d525" />
+
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byanabia/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/byanabia/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/byanabia/byanabia/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
+
+
+
+
