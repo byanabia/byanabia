@@ -4,11 +4,18 @@ Estudante da *SENAI - Suíço Brasileira*📚🚩
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AnaBia&rank_icon=github&custom_title=Estat%C3%ADsticas%20da%20Ana&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=AnaBia&rank_icon=github&custom_title=Estat%C3%ADsticas%20da%20Ana&include_all_commits=true&theme=radical)
 
-<img align="center" alt="ana bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<a href="https://instagram.com/_.bybeatriz" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<p align="left">
+><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+</p>
 
 
 <a href="https://www.duolingo.com/profile/_.bybeatriz" target="_blank">
   <img src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=white" alt="Duolingo">
 </a>
+
+<a href="https://instagram.com/_.bybeatriz" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+
+<img width="170" height="170" alt="Image" src="https://github.com/user-attachments/assets/c2696630-2c09-4149-813a-fd660314d525" />
