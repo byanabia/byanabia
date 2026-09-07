@@ -20,7 +20,8 @@
 
 <a href="https://instagram.com/_.bybeatriz" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
+<a href = "mailto:ana.b.almeida6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 
 <img width="170" height="170" alt="Image" src="https://github.com/user-attachments/assets/c2696630-2c09-4149-813a-fd660314d525" />
 
