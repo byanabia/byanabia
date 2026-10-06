@@ -6,7 +6,10 @@
 <p align="center">Estudante da SENAI Suíço-Brasileira, Cursando Manufatura Digital, incluindo programação em Python. Procuro evoluir nos meus conhecimentos em Soft skills.❤️
 
 <div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=AnaBia&rank_icon=github&custom_title=Estat%C3%ADsticas%20da%20Ana&include_all_commits=true&theme=radical" width="460">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=byanabia&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1" width="460">
+</div>
+
   <img src="https://github.com/user-attachments/assets/dac5e790-1ed4-4f55-8aa5-32cadeac3d07" width="380">
 </div>
 
