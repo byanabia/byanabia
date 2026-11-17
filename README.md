@@ -7,7 +7,7 @@
 
 <div align="left">
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=byanabia&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1" width="460">
+  <img src="https://github-stats-extended.vercel.app/api?username=byanabia&rank_icon=github&custom_title=Estat%C3%ADsticas%20da%20Ana&include_all_commits=true&theme=radical&cache_seconds=1" width="460">
 </div>
 
   <img src="https://github.com/user-attachments/assets/dac5e790-1ed4-4f55-8aa5-32cadeac3d07" width="380">
